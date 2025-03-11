@@ -35,6 +35,7 @@ The package provides the node command for the ROS 2 command line tools.""",
             'count_1b_py = pybind11_demo.count_1b_py:main',
             'count_1b_pybind = pybind11_demo.count_1b_pybind:main',
             'factory_inspect = pybind11_demo.factory_inspect:main',
+            'factory_listener = pybind11_demo.factory_listener:main',
         ],
     }
 )
